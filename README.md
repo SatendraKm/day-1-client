@@ -10,4 +10,9 @@ npm install
 ```
 Note: this will install all the dependencies that is required
 
-4. open "http://localhost:5173" on your browser.
+4. run the development server using the command
+```
+npm run dev
+```
+
+5. open "http://localhost:5173" on your browser.
